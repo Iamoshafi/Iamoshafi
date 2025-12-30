@@ -23,4 +23,3 @@ Build strong fundamentals in security operations and become job-ready for a **Ti
 
 - 📫 Reach me: Iamoshafi
 - ⚡ Fun fact: I am a First Class Computer Science graduate
--->
