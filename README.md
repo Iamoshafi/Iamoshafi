@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I’m Oshafi 👋
 
-<!--
-**Iamoshafi/Iamoshafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Junior SOC / Security Operations Analyst (in training)** focused on learning how security alerts are investigated, documented, and responded to in real-world environments.
 
-Here are some ideas to get you started:
+### What I’m currently working on
+- Alert triage and incident analysis  
+- Authentication, network, and endpoint security alerts  
+- Writing clear investigation reports from SOC-style labs  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Tools & environments
+- LetsDefend (SOC Analyst Path)  
+- Basic Linux and Windows logs  
+- Networking fundamentals (TCP/IP, DNS, HTTP)  
+- Python (beginner, used for simple log analysis and automation)
+
+### What you’ll find here
+- Documented SOC investigations with reasoning and conclusions  
+- Lab notes showing how I approach and learn from security alerts  
+- Small scripts or tooling that support SOC workflows (when relevant)
+
+### Current goal
+Build strong fundamentals in security operations and become job-ready for a **Tier 1 SOC or SOC-adjacent role**.
+
+- 📫 Reach me: Iamoshafi
+- ⚡ Fun fact: I am a First Class Computer Science graduate
 -->
