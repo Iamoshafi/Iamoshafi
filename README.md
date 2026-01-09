@@ -20,6 +20,8 @@ I’m a **Junior SOC / Security Operations Analyst (in training)** focused on le
 
 ### Current goal
 Build strong fundamentals in security operations and become job-ready for a **Tier 1 SOC or SOC-adjacent role**.
+----------------------------------------------------------------------------------------------------------------------
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5431981" style='border:none;'></iframe>
 
 - 📫 Reach me: Iamoshafi
 - ⚡ Fun fact: I am a First Class Computer Science graduate
