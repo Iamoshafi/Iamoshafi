@@ -3,22 +3,22 @@
 I’m a **Junior SOC / Security Operations Analyst (in training)** focused on learning how security alerts are investigated, documented, and responded to in real-world environments.
 
 ### What I’m currently working on
-. Alert triage and incident analysis  
-. Authentication, network, and endpoint security alerts  
-. Writing clear investigation reports from SOC-style labs  
+- Alert triage and incident analysis  
+- Authentication, network, and endpoint security alerts  
+- Writing clear investigation reports from SOC-style labs  
 
 ### Tools & environments
-. LetsDefend (SOC Analyst Path)
-. TryHackMe  
-. Basic Linux and Windows logs  
-. Networking fundamentals (TCP/IP, DNS, HTTP)  
+- LetsDefend (SOC Analyst Path)
+- TryHackMe  
+- Basic Linux and Windows logs  
+- Networking fundamentals (TCP/IP, DNS, HTTP)  
 
 ### What you’ll find here
-. Documented SOC investigations with reasoning and conclusions  
-. Lab notes showing how I approach and learn from security alerts  
-. Small scripts or tooling that support SOC workflows
+- Documented SOC investigations with reasoning and conclusions  
+- Lab notes showing how I approach and learn from security alerts  
+- Small scripts or tooling that support SOC workflows
 
-______________________________________________________________________________________________________
+-------------------------------------------------------------------------------------------------------
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/aregbeyen.omotiafe.png?update=1)](https://tryhackme.com/p/aregbeyen.omotiafe)
 
 ### You can read my articles
