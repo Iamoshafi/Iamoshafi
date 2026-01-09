@@ -18,7 +18,7 @@ I’m a **Junior SOC / Security Operations Analyst (in training)** focused on le
 . Lab notes showing how I approach and learn from security alerts  
 . Small scripts or tooling that support SOC workflows
 
-
+______________________________________________________________________________________________________
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/aregbeyen.omotiafe.png?update=1)](https://tryhackme.com/p/aregbeyen.omotiafe)
 
 ### You can read my articles
