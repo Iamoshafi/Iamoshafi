@@ -22,6 +22,7 @@ I’m a **Junior SOC / Security Operations Analyst (in training)** focused on le
 Build strong fundamentals in security operations and become job-ready for a **Tier 1 SOC or SOC-adjacent role**.
 ----------------------------------------------------------------------------------------------------------------------
 ![tryhackme stats](https://raw.githubusercontent.com/aregbeyen.omotiafe/aregbeyen.omotiafe/master/assets/thm_propic.png)
+![tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/aregbeyen.omotiafe.png?update=1)
 <img width="329" height="88" alt="image" src="https://github.com/user-attachments/assets/64c78112-82bf-478b-8ce7-983b60a98a14" />
 
 - 📫 Reach me: Iamoshafi
